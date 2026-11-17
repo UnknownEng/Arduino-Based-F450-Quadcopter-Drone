@@ -1,0 +1,17 @@
+# Simulator build output and logs (regenerate with: python sim/run_sim.py)
+sim/results/
+*.exe
+*.pdb
+__pycache__/
+*.pyc
+
+# Arduino build folders
+build/
+*.hex
+*.elf
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -9,7 +9,9 @@ Based on **YMFC-AL** by Joop Brokking ([brokking.net](http://www.brokking.net)),
     <img src="docs/media/flight_preview.gif" alt="Simulated flight test of the flight controller code" width="760">
   </a>
   <br>
-  <em>The real <code>flight_controller.ino</code> flying a simulated F450. <a href="docs/media/flight_tests.mp4"><b>▶ Watch the full 2-minute test video</b></a></em>
+  <em>The real <code>flight_controller.ino</code> flying a simulated F450, with every check ticking off live.</em>
+  <br>
+  <a href="https://github.com/UnknownEng/Arduino-Based-F450-Quadcopter-Drone/raw/main/docs/media/flight_tests.mp4"><b>▶ Download the full 2-minute test video (MP4, 2.6 MB)</b></a>
 </p>
 
 > ⚠️ **Safety:** Always remove the propellers for setup, calibration and bench tests. Fly only in an open area away from people. This is hobby software and comes with no guarantee.
